@@ -1,0 +1,1 @@
+This repo contains the dotnet libraries from 6.0.21 and the include file is taken from https://github.com/dotnet/coreclr/blob/master/src/coreclr/hosts/inc/coreclrhost.h.
